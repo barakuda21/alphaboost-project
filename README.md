@@ -3,6 +3,7 @@
 AlphaBoost is a high-performance financial management and analytical application designed for sophisticated portfolio construction and recursive tree-based asset allocation.
 
 Key features include:
+
 Recursive Portfolio Management: Utilizes a nested tree structure (Pots and Sub-Pots) 
 to manage complex financial hierarchies using recursive PostgreSQL logic.
 
@@ -14,4 +15,5 @@ with performance charting that supports dynamic viewport clipping and timeframe-
 
 Layered Architecture: Built with a strict separation of concerns, utilizing dedicated 
 backend services for mathematical KPI computations and repository layers for secure, optimized data access.
+
 https://www.alphaboost.io/
